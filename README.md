@@ -69,3 +69,9 @@ Textos autorais, imagem pessoal e materiais de carreira pertencem a Wesley Vieir
 - Boost Your Leadership Impact: quatro cursos concluídos e certificado da especialização vinculado na formação. O emissor foi alinhado à Harvard Business Review conforme a Coursera.
 - AI Agent Developer continua em andamento, com um curso concluído.
 - PDFs e fontes atualizados; versões anteriores preservadas em `curriculo/historico/`.
+
+### Navegação e certificados, 8 de outubro de 2026
+
+O portfólio completo foi reorganizado em 83 páginas, com índice por capítulos e intervalos de páginas, índices de artigos e formações, marcadores hierárquicos e botões de navegação. Cada categoria de cursos começa em uma página própria, com contagem e numeração local. Todos os 448 cursos, 27 programas, 13 artigos e oito cargos foram preservados.
+
+As formações usam uma área padronizada de comprovantes, com 10 links públicos encontrados. O tipo de documento distingue curso individual, especialização completa, pós-graduação e diploma. Michigan permanece sem link público de conclusão disponível no perfil. Os PDFs atuais ficam em `public/downloads/`; esta edição foi preservada em `curriculo/historico/2026-10-08-navigation/`.
