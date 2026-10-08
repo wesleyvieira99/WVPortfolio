@@ -520,17 +520,21 @@
       "institution": "Vanderbilt University",
       "title": "AI Agent Developer Specialization",
       "date": "Sep 2026 - Mar 2027",
-      "summary": "Hands-on AI agent development using Python, OpenAI tools and prompt engineering. Covers agent architectures, tool use, memory, custom GPTs, and responsible, trustworthy AI. Applied projects build functional agents for workflow automation, document analysis and domain-specific insights, connecting agentic design with deployment in professional scenarios.",
+      "summary": "Hands-on AI agent development using Python, OpenAI tools and prompt engineering. Covers agent architectures, tool use, memory, custom GPTs, and responsible, trustworthy AI. Applied projects build functional agents for workflow automation, document analysis and domain-specific insights, connecting agentic design with deployment in professional scenarios. Completed AI Agents and Agentic AI with Python & Generative AI in October 2026, with a course certificate; the broader specialization remains in progress.",
       "logo": "cv-edu-logo-16.png",
-      "status": "In progress"
+      "status": "In progress | 1 course completed",
+      "credential_url": "https://www.coursera.org/account/accomplishments/verify/C6W16OECJBOB",
+      "credential_label": "View completed course certificate"
     },
     {
-      "institution": "Harvard Business School",
+      "institution": "Harvard Business Review",
       "title": "Boost Your Leadership Impact Specialization",
       "date": "Sep 2026 - Oct 2026",
-      "summary": "Four applied leadership projects: building trust, inclusion and effective delegation; handling difficult conversations, resolving conflict and creating a feedback-rich environment; improving presentations and professional writing; and developing networks, persuasion and influence. Builds people-management, communication and relationship practices that support team growth and performance.",
-      "logo": "cv-edu-logo-17.png",
-      "status": "In progress | 3 of 4 courses completed"
+      "summary": "Four applied leadership projects: building trust, inclusion and effective delegation; handling difficult conversations, resolving conflict and creating a feedback-rich environment; improving presentations and professional writing; and developing networks, persuasion and influence. Builds people-management, communication and relationship practices that support team growth and performance. Completed all four courses in October 2026, with the specialization certificate issued through Coursera.",
+      "logo": "cv-logo-hbr.png",
+      "status": "Completed | 4 of 4 courses",
+      "credential_url": "https://www.coursera.org/account/accomplishments/specialization/GHESGWLN8AVG",
+      "credential_label": "View specialization certificate"
     },
     {
       "institution": "Universitat Politècnica de València (UPV)",
@@ -6114,6 +6118,32 @@
       "id": 428,
       "category": "Mainframe & legacy systems",
       "logo": "cv-logo-ibm.png"
+    },
+    {
+      "id": 447,
+      "title": "Build Your Influence",
+      "issuer": "Harvard Business Review",
+      "category": "Business & leadership",
+      "logo": "cv-logo-hbr.png",
+      "date": "Issued Oct 2026",
+      "credential": "PRE64L53NBRZ",
+      "links": [
+        "https://www.coursera.org/account/accomplishments/verify/PRE64L53NBRZ"
+      ],
+      "linkedin_id": "434165628"
+    },
+    {
+      "id": 448,
+      "title": "AI Agents and Agentic AI with Python & Generative AI",
+      "issuer": "Vanderbilt University",
+      "category": "Data science & AI",
+      "logo": "cv-edu-logo-16.png",
+      "date": "Issued Oct 2026",
+      "credential": "C6W16OECJBOB",
+      "links": [
+        "https://www.coursera.org/account/accomplishments/verify/C6W16OECJBOB"
+      ],
+      "linkedin_id": "443075947"
     }
   ],
   "brands": {
