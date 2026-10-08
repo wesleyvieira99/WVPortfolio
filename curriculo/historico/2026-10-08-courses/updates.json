@@ -1,0 +1,85 @@
+{
+  "date": "2026-10-08",
+  "records": 448,
+  "linkedin_certifications": 398,
+  "linkedin_courses": 50,
+  "education_programs": 27,
+  "excluded": "Estácio, as previously requested",
+  "consolidated": "Duplicate Duke LLMOps record retained as one program using latest dates",
+  "category_counts": {
+    "Data science & AI": 114,
+    "Backend engineering": 85,
+    "Frontend & mobile": 45,
+    "Security & infrastructure": 71,
+    "Testing & software quality": 10,
+    "Certifications & exam preparation": 33,
+    "Algorithms & programming": 66,
+    "Business & leadership": 14,
+    "Languages & further learning": 9,
+    "Mainframe & legacy systems": 1
+  },
+  "changes": {
+    "new_credentials": [
+      {
+        "id": 447,
+        "title": "Build Your Influence",
+        "issuer": "Harvard Business Review",
+        "category": "Business & leadership",
+        "logo": "cv-logo-hbr.png",
+        "date": "Issued Oct 2026",
+        "credential": "PRE64L53NBRZ",
+        "links": [
+          "https://www.coursera.org/account/accomplishments/verify/PRE64L53NBRZ"
+        ],
+        "linkedin_id": "434165628"
+      },
+      {
+        "id": 448,
+        "title": "AI Agents and Agentic AI with Python & Generative AI",
+        "issuer": "Vanderbilt University",
+        "category": "Data science & AI",
+        "logo": "cv-edu-logo-16.png",
+        "date": "Issued Oct 2026",
+        "credential": "C6W16OECJBOB",
+        "links": [
+          "https://www.coursera.org/account/accomplishments/verify/C6W16OECJBOB"
+        ],
+        "linkedin_id": "443075947"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Vanderbilt University",
+        "title": "AI Agent Developer Specialization",
+        "status": "In progress | 1 course completed",
+        "credential_url": "https://www.coursera.org/account/accomplishments/verify/C6W16OECJBOB"
+      },
+      {
+        "institution": "Harvard Business Review",
+        "title": "Boost Your Leadership Impact Specialization",
+        "status": "Completed | 4 of 4 courses",
+        "credential_url": "https://www.coursera.org/account/accomplishments/specialization/GHESGWLN8AVG"
+      }
+    ]
+  },
+  "evidence": {
+    "linkedin": "https://www.linkedin.com/in/techvieira/",
+    "education": "https://www.linkedin.com/in/techvieira/details/education/",
+    "certifications": "https://www.linkedin.com/in/techvieira/details/certifications/",
+    "provider": "https://www.coursera.org/specializations/boost-your-leadership-impact"
+  },
+  "notes": [
+    "Two individual credentials added; the specialization certificate is linked under education and is not counted a second time as a course.",
+    "Leadership specialization provider aligned with Harvard Business Review, as identified by Coursera and the individual course certificates."
+  ],
+  "files": {
+    "Wesley_Vieira_Engineering_Leader_Complete_Portfolio.pdf": {
+      "bytes": 1951266,
+      "pages": 64
+    },
+    "Wesley_Vieira_Engineering_Leader_Executive.pdf": {
+      "bytes": 108408,
+      "pages": 5
+    }
+  }
+}
