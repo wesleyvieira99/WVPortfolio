@@ -1,0 +1,34 @@
+name: Import complete portfolio
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and restore the prepared project
+        shell: python
+        run: |
+          import hashlib, io, pathlib, zipfile
+          parts = sorted(pathlib.Path('.').glob('portfolio-source.zip.part-*'))
+          assert len(parts) == 9, 'Expected nine source archive parts'
+          content = b''.join(p.read_bytes() for p in parts)
+          assert hashlib.sha256(content).hexdigest() == 'a40aaca5108a5075751b674b5af9a73d025435801d2fa1c33e0fc5c696143e7c', 'Archive checksum mismatch'
+          with zipfile.ZipFile(io.BytesIO(content)) as archive:
+              assert len(archive.infolist()) == 226, 'Unexpected file count'
+              for item in archive.infolist():
+                  path = pathlib.PurePosixPath(item.filename)
+                  assert not path.is_absolute() and '..' not in path.parts
+                  assert path.parts[0] not in ('.git', '.github')
+              archive.extractall('.')
+          for part in parts:
+              part.unlink()
+      - name: Commit the complete project and CV history
+        run: |
+          git config user.name "Wesley Vieira"
+          git config user.email "75049150+wesleyvieira99@users.noreply.github.com"
+          git add --all
+          git commit -m "Import complete portfolio, updated CVs, history and documentation"
+          git push origin HEAD:main
