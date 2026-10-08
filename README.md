@@ -22,6 +22,7 @@ Requer Node.js 22 ou superior e npm.
 npm ci
 npm run check
 npm run build
+npm run export:pages
 npm run preview
 ```
 
@@ -41,15 +42,17 @@ Abra `http://localhost:8080`. O build gera `dist/`, pronto para hospedagem está
 | `public/downloads/` | PDFs atuais exibidos no site |
 | `curriculo/historico/` | Versões datadas, preservadas sem sobrescrita |
 | `curriculo/fonte/` | Fonte editável e recursos para reconstruir os PDFs |
-| `.github/workflows/pages.yml` | Build e publicação a cada atualização da branch principal |
+| `index.html`, `public/portfolio.js`, `public/portfolio.css` | Exportação estática pronta para publicação por branch |
+| `scripts/export-pages.mjs` | Atualiza a exportação estática após mudanças nos dados ou no código |
+| `.github/workflows/pages.yml` | Build e publicação manual por Actions, quando esse serviço estiver disponível |
 
 ## Atualização dos conteúdos
 
-Edite `lib/portfolio-seed.json`, gere o site e faça commit na branch `main`. O GitHub Actions publica o resultado no Pages. O [guia](GUIA_DE_ATUALIZACAO.md) detalha os campos e o procedimento.
+Edite `lib/portfolio-seed.json`, execute `npm run export:pages` e faça commit do código e da exportação na branch `main`. Em Settings > Pages, use **Deploy from a branch**, branch **main**, pasta **/(root)**. O Pages publica a versão estática enviada. O workflow manual de Actions também está incluído para uso quando o serviço estiver habilitado na conta. O [guia](GUIA_DE_ATUALIZACAO.md) detalha os campos e o procedimento.
 
 Os repositórios são consultados automaticamente na API pública do GitHub quando o visitante abre a página e a cada 15 minutos enquanto ela permanece aberta. Os conteúdos do LinkedIn são uma cópia editorial revisada. **Não há sincronização automática ativa com o LinkedIn.** Uma conexão automática exige uma fonte autorizada e um processo externo; login e senha não devem ser colocados neste projeto.
 
-O GitHub Pages entrega arquivos estáticos. O painel autenticado e a persistência de servidor da versão original não são executados no Pages. Nesta edição, as atualizações são feitas pelo repositório e publicadas pelo Actions.
+O GitHub Pages entrega arquivos estáticos. O painel autenticado e a persistência de servidor da versão original não são executados no Pages. Nesta edição, as atualizações são feitas pelo repositório e publicadas pelo Pages.
 
 ## Rotina de estudo
 
