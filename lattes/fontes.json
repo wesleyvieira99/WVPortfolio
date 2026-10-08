@@ -1,0 +1,111 @@
+{
+  "verificado_em": "2026-10-08",
+  "observacao": "Regras, telas e editais podem mudar. Confira a fonte e suas retificações antes de agir.",
+  "fontes": [
+    {
+      "id": "S1",
+      "title": "Cadastrar-se no Currículo Lattes",
+      "org": "Governo Federal / CNPq",
+      "url": "https://www.gov.br/pt-br/servicos/cadastrar-se-no-curriculo-lattes",
+      "why": "Entrada oficial, público atendido e gratuidade do cadastro."
+    },
+    {
+      "id": "S2",
+      "title": "Perguntas frequentes do CNPq",
+      "org": "CNPq",
+      "url": "https://www.gov.br/cnpq/pt-br/acesso-a-informacao/perguntas-frequentes-1",
+      "why": "Cadastro, atualização, recuperação de acesso e prazo de publicação de até 24 horas."
+    },
+    {
+      "id": "S3",
+      "title": "Manual do Currículo Lattes · atualização de 05/10/2026",
+      "org": "CNPq",
+      "url": "https://www.gov.br/cnpq/pt-br/centrais-de-conteudo/manuais-de-uso-das-plataformas-do-cnpq/final-minuta-manual-lattes-3.pdf/view",
+      "why": "Campos e módulos. Referências úteis: cadastro pp. 8–15; exportação p. 16; idiomas p. 32; resumo p. 34; formação pp. 36–39; atuação pp. 40–41; projetos p. 49; software p. 64; blogs p. 76."
+    },
+    {
+      "id": "S4",
+      "title": "Programas e bolsas no país: perguntas frequentes",
+      "org": "CAPES",
+      "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/perguntas-frequentes/programas-e-bolsas-no-pais",
+      "why": "Bolsas institucionais, seleção pelo programa e acúmulo com atividade remunerada."
+    },
+    {
+      "id": "S5",
+      "title": "Acúmulo de bolsas e atividades remuneradas",
+      "org": "CAPES",
+      "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-flexibiliza-norma-sobre-acumulo-de-bolsas-e-atividades-remuneradas",
+      "why": "Portaria 133/2023 e autonomia institucional para estabelecer condições."
+    },
+    {
+      "id": "S6",
+      "title": "Portaria 2.346/2025: bolsas e outras fontes de renda",
+      "org": "CNPq",
+      "url": "https://www.gov.br/cnpq/pt-br/assuntos/noticias/cnpq-em-acao/portaria-do-cnpq-flexibiliza-regras-e-permite-a-mestrandos-doutorandos-e-pos-doutorandos-ter-outras-fontes-de-renda",
+      "why": "Possibilidade de atividade remunerada, com anuência e preservação das atividades de pesquisa."
+    },
+    {
+      "id": "S7",
+      "title": "Bolsa de Mestrado · normas vigentes desde 01/09/2026",
+      "org": "FAPESP",
+      "url": "https://fapesp.br/bolsas/ms",
+      "why": "Projeto, orientação, submissão pelo SAGe, dedicação e condições de vínculo/remuneração."
+    },
+    {
+      "id": "S8",
+      "title": "Avaliação da pós-graduação: perguntas frequentes",
+      "org": "CAPES",
+      "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/perguntas-frequentes/avaliacao-da-pos-graduacao",
+      "why": "Consulta a programas avaliados e reconhecidos e orientação sobre a pós-graduação."
+    },
+    {
+      "id": "S9",
+      "title": "Edital de mestrado em Ciência da Computação · ingresso 2027",
+      "org": "IME / USP",
+      "url": "https://www.ime.usp.br/pos-computacao/processo-seletivo/edital-mestrado/",
+      "why": "Exemplo real de documentos, critérios de avaliação, referências e regras para a carta pessoal."
+    },
+    {
+      "id": "S10",
+      "title": "Processo seletivo da pós-graduação · 1º semestre de 2027",
+      "org": "Instituto de Computação / Unicamp",
+      "url": "https://ic.unicamp.br/pos-graduacao/processo-seletivo/1s2027/",
+      "why": "Exemplo de plano de pesquisa, recomendações, pré-requisitos e bolsas."
+    },
+    {
+      "id": "S11",
+      "title": "Processos seletivos do PPG em Ciência da Computação",
+      "org": "UFABC / SIGAA",
+      "url": "https://sig.ufabc.edu.br/sigaa/public/programa/processo_seletivo.jsf?id=198&lc=pt_BR",
+      "why": "Editais e calendários oficiais de inscrição."
+    },
+    {
+      "id": "S12",
+      "title": "Pós-graduação acadêmica em Administração",
+      "org": "FEA / USP",
+      "url": "https://fea.usp.br/administracao/pos-graduacao-academica/informacoes-gerais-sobre-o-programa",
+      "why": "Alternativa para aproximar administração, organizações, inovação e sua trajetória de liderança."
+    },
+    {
+      "id": "S13",
+      "title": "ORCID",
+      "org": "ORCID",
+      "url": "https://orcid.org/",
+      "why": "Identificador persistente de pesquisador, complementar ao Lattes."
+    },
+    {
+      "id": "S14",
+      "title": "Plataforma Sucupira",
+      "org": "CAPES",
+      "url": "https://sucupira-legado.capes.gov.br/sucupira/",
+      "why": "Consulta pública de cursos e programas. Se houver redirecionamento, siga o acesso indicado pela CAPES."
+    },
+    {
+      "id": "S15",
+      "title": "Plataforma Lattes",
+      "org": "CNPq",
+      "url": "https://lattes.cnpq.br/",
+      "why": "Portal oficial para cadastrar, atualizar e buscar currículos."
+    }
+  ]
+}
