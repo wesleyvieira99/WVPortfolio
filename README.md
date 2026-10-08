@@ -10,7 +10,7 @@ Portfólio de **Wesley Vieira**, líder de engenharia de software, com experiên
 - Trajetória profissional completa, impactos reportados, tecnologias, premiação, fotos, imprensa e recomendações.
 - Repositórios públicos do GitHub com busca, filtros e leitura de código dentro do site.
 - Treze artigos autorais completos, com capas, imagens, categorias e leitura na própria página.
-- Formação acadêmica, idiomas com bandeiras e catálogo unificado de 446 cursos e certificações.
+- Formação acadêmica, idiomas com bandeiras e catálogo unificado de 448 cursos e certificações.
 - Rotina de estudos: compromisso diário de 6 horas, seis pilares e uma agenda navegável de segunda a domingo.
 - PDFs atualizados para download e histórico datado de currículos.
 
@@ -61,3 +61,11 @@ A rotina foi organizada a partir do calendário eduControl enviado pelo propriet
 ## Conteúdo e uso
 
 Textos autorais, imagem pessoal e materiais de carreira pertencem a Wesley Vieira. Marcas de instituições e jornais identificam as fontes e permanecem de seus respectivos titulares. O código inclui dependências de terceiros sob suas próprias licenças.
+
+### Atualização de 8 de outubro de 2026
+
+- Catálogo unificado: 398 licenças e certificações + 50 cursos, totalizando 448 registros.
+- Novos certificados: Build Your Influence (Harvard Business Review) e AI Agents and Agentic AI with Python & Generative AI (Vanderbilt University).
+- Boost Your Leadership Impact: quatro cursos concluídos e certificado da especialização vinculado na formação. O emissor foi alinhado à Harvard Business Review conforme a Coursera.
+- AI Agent Developer continua em andamento, com um curso concluído.
+- PDFs e fontes atualizados; versões anteriores preservadas em `curriculo/historico/`.
