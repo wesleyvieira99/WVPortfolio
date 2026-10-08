@@ -378,7 +378,11 @@
       "date": "Sep 2026 - Feb 2027",
       "summary": "Cognitive psychology and neuropsychology, covering neuroimaging and empirical research methods; cognitive architecture and the interaction of genetic and experiential factors; psycholinguistics, language acquisition and shared attention; working memory, mental modularity and cross-modal sensory processing; and the neural foundations of executive function, attention, consciousness and free will.",
       "logo": "cv-edu-logo-0.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "https://www.coursera.org/account/accomplishments/verify/KPCZHSJ8JZG2?utm_product=course",
+      "credential_label": "Course certificate",
+      "credential_scope": "course",
+      "credential_note": "Completed course: Cognitive Psychology and Neuropsychology. The broader specialization remains in progress."
     },
     {
       "institution": "Duke University",
@@ -386,7 +390,11 @@
       "date": "Sep 2026 - Mar 2027",
       "summary": "Six-month program developed by Duke University and UC San Diego covering Java and object-oriented programming, complex data structures, algorithmic optimization and design patterns. Data-driven projects emphasize computational efficiency, problem solving and the design of scalable, high-performance applications.",
       "logo": "cv-edu-logo-1.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "PUC Minas",
@@ -394,7 +402,11 @@
       "date": "Oct 2022 - Dec 2023",
       "summary": "Postgraduate Program in Software Engineering at PUC Minas, with a comprehensive focus on software architecture, backend and frontend development, mobile application architecture, APIs and Web Services, DevOps practices, data engineering, software design, requirements engineering, systematic software testing, and software quality.\n\nThe program also covers Agile Project Management, software metrics and estimation, user experience design, implementation and continuous evolution of software, digital transformation, and strategic approaches to software design, providing a strong foundation for designing, developing, testing, and managing scalable, high-quality software solutions.",
       "logo": "cv-edu-logo-2.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "https://drive.google.com/file/d/1VVrAkMUqrkAxK-2K2PCN5f-O2Hyo8g56/view?usp=drivesdk&usp=embed_facebook",
+      "credential_label": "Postgraduate certificate",
+      "credential_scope": "postgraduate",
+      "credential_note": "Completion certificate for the postgraduate program in Software Engineering at PUC Minas."
     },
     {
       "institution": "EF English Live",
@@ -402,7 +414,11 @@
       "date": "Ongoing",
       "summary": "Ongoing English development with daily study throughout the week and a structured focus on one subject per day. Continuous practice in grammar, vocabulary, listening, speaking, reading and communication for professional and international environments.",
       "logo": "cv-edu-logo-3.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "University of Washington",
@@ -410,7 +426,11 @@
       "date": "Mar 2023 - Apr 2023",
       "summary": "Practical machine learning case studies: house-price prediction, sentiment analysis of user reviews, document retrieval, product recommendations and image search. Hands-on application of ML methods across domains.",
       "logo": "cv-edu-logo-5.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "https://www.coursera.org/account/accomplishments/verify/UZMPZ4FB38SD?utm_product=course",
+      "credential_label": "Course certificate",
+      "credential_scope": "course",
+      "credential_note": "Certificate for Machine Learning Foundations: A Case Study Approach. This link verifies the individual course, not the full specialization."
     },
     {
       "institution": "University of Michigan",
@@ -418,7 +438,11 @@
       "date": "Mar 2023 - Apr 2023",
       "summary": "Advanced LLM and generative AI coursework covering transformer architectures, prompt engineering, NLP, applications, responsible AI and model limitations. Focuses on designing, evaluating and integrating LLM-powered solutions into software engineering, product development, automation and digital transformation.",
       "logo": "cv-edu-logo-6.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "",
+      "credential_label": "Certificate not linked",
+      "credential_scope": "unlinked",
+      "credential_note": "Program marked completed. A public completion-certificate link is not available in the current records."
     },
     {
       "institution": "Universidade Paulista",
@@ -426,7 +450,11 @@
       "date": "2018 - 2021",
       "summary": "Bachelor’s Degree in Business Administration at UNIP (Universidade Paulista), providing a comprehensive foundation in business management, organizational strategy, finance, marketing, operations, human resources, economics, accounting, entrepreneurship, and project management.\n\nThe program developed strong analytical, strategic, and leadership skills, with an emphasis on business decision-making, organizational management, process optimization, and the relationship between technology, business, and digital transformation.\n\nThis academic background supports a multidisciplinary approach to technology and product leadership, combining business strategy and management principles with software engineering, technology, and innovation.",
       "logo": "cv-edu-logo-7.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "https://drive.google.com/file/d/1pwKwPQ5_L1Hn04XgRiqxtzSq2eCtgw4R/view?usp=drivesdk&usp=embed_facebook",
+      "credential_label": "Degree diploma",
+      "credential_scope": "degree",
+      "credential_note": "Bachelor's degree diploma in Business Administration from Universidade Paulista."
     },
     {
       "institution": "UC Irvine",
@@ -434,7 +462,11 @@
       "date": "Aug 2026 - Sep 2026",
       "summary": "Grammar, sentence structure, vocabulary, comprehension and practical academic and professional communication, strengthening fluency, accuracy and confidence in English.",
       "logo": "cv-edu-logo-8.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "https://www.coursera.org/account/accomplishments/specialization/BIO4F5E6CRM4",
+      "credential_label": "Specialization certificate",
+      "credential_scope": "specialization",
+      "credential_note": "Completion certificate for the English Grammar specialization."
     },
     {
       "institution": "University of Pennsylvania",
@@ -442,7 +474,11 @@
       "date": "Sep 2026 - Sep 2026",
       "summary": "English for STEM: scientific and technical vocabulary, reading and listening comprehension, grammar, interpretation of data and scientific methods, and clear communication of complex technical concepts. Supports collaboration with global engineering teams, use of English-language documentation and research, and precise communication in professional and academic environments.",
       "logo": "cv-edu-logo-9.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "https://www.coursera.org/account/accomplishments/verify/XARE1IEKZT6X?utm_product=course",
+      "credential_label": "Course certificate",
+      "credential_scope": "course",
+      "credential_note": "Completion certificate for the individual course English for Science, Technology, Engineering, and Mathematics."
     },
     {
       "institution": "Università degli Studi di Napoli Federico II",
@@ -450,7 +486,11 @@
       "date": "Sep 2026 - Jan 2027",
       "summary": "Intermediate English development for professional, academic, business and everyday settings. Covers grammar, vocabulary, listening, speaking, writing, oral expression and interpersonal communication, applied to meetings, presentations, negotiations, interviews, professional correspondence and workplace interaction. Develops clear messages and confident collaboration in international and multicultural environments.",
       "logo": "cv-edu-logo-10.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "UC Irvine",
@@ -458,7 +498,11 @@
       "date": "Sep 2026 - Oct 2026",
       "summary": "Advanced academic and professional listening and speaking, including note-taking, discussions, public speaking, presentation delivery, critical thinking and verbal and non-verbal communication. Practical activities develop comprehension of complex lectures and conversations, clear organization of ideas and confident expression. Includes a final academic presentation project.",
       "logo": "cv-edu-logo-8.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "University of London",
@@ -466,7 +510,11 @@
       "date": "Sep 2026 - Jan 2027",
       "summary": "Computer and network security from hardware to applications, including core components and system operation. Examines human factors in cybercrime, social engineering, criminals, victims and law enforcement. Covers practical security management and governance, incident response and the role of people in improving organizational security outcomes.",
       "logo": "cv-edu-logo-11.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "University of Illinois Urbana-Champaign",
@@ -474,7 +522,11 @@
       "date": "Sep 2026 - Jan 2027",
       "summary": "The Data Mining Specialization teaches data mining techniques for both structured data which conform to a clearly defined schema, and unstructured data which exist in the form of natural language text. Specific course topics include pattern discovery, clustering, text retrieval, text mining and analytics, and data visualization.",
       "logo": "cv-edu-logo-12.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "The Johns Hopkins University",
@@ -482,7 +534,11 @@
       "date": "Sep 2026 - Oct 2026",
       "summary": "Algebra and geometry foundations for precalculus and calculus, with quantitative reasoning, logical thinking and informed use of data. A sequence of applied problems and worked solutions develops practical mathematical fluency, with progressively challenging exercises throughout the modules. Covers equations and inequalities, functions and their applications, domains and ranges, exponential functions, polynomials and roots.",
       "logo": "cv-edu-logo-13.png",
-      "status": "Completed"
+      "status": "Completed",
+      "credential_url": "https://www.coursera.org/account/accomplishments/specialization/7696BIFB3W0F",
+      "credential_label": "Specialization certificate",
+      "credential_scope": "specialization",
+      "credential_note": "Completion certificate for the full Algebra: Elementary to Advanced specialization."
     },
     {
       "institution": "Stanford University",
@@ -490,7 +546,11 @@
       "date": "Sep 2026 - Dec 2026",
       "summary": "Algorithm design, mathematical analysis and low-level implementation. Covers divide and conquer, sorting, searching, randomized algorithms, Big-O analysis, inversion counting, matrix multiplication, the master method and randomized quicksort. Graph topics include BFS, DFS, topological sort, Dijkstra, Bellman-Ford and Floyd-Warshall. Data structures include heaps, balanced search trees and hash tables. Also covers greedy algorithms, minimum spanning trees, Prim, Kruskal, Huffman codes, dynamic programming and NP-completeness.",
       "logo": "cv-edu-logo-14.png",
-      "status": "In progress | 1 of 4 courses completed"
+      "status": "In progress | 1 of 4 courses completed",
+      "credential_url": "https://www.coursera.org/account/accomplishments/verify/9CJBPM7LKKIB?utm_product=course",
+      "credential_label": "Course certificate",
+      "credential_scope": "course",
+      "credential_note": "Completed course: Divide and Conquer, Sorting and Searching, and Randomized Algorithms. The Algorithms specialization remains in progress, with 1 of 4 courses completed."
     },
     {
       "institution": "Duke University",
@@ -498,7 +558,11 @@
       "date": "Oct 2026 - Apr 2027",
       "summary": "Large Language Model engineering, deployment, operation, lifecycle management, scaling and optimization in production. Covers generative AI, open-source and locally hosted LLMs, model serving and monitoring, LLMOps/MLOps, application architecture, and AI infrastructure across AWS, Azure, Databricks and local environments. Hands-on projects connect software engineering, cloud, DevOps and data engineering with reliable, scalable generative AI systems and practical deployment challenges.",
       "logo": "cv-edu-logo-1.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "New York University",
@@ -506,7 +570,11 @@
       "date": "Sep 2026 - Feb 2027",
       "summary": "Machine learning and reinforcement learning applied to stock trading, asset management and banking. Assignments and projects combine a broad understanding of ML with selection of suitable methods, including unsupervised learning, for complex financial problems.",
       "logo": "cv-edu-logo-15.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "Duke University",
@@ -514,7 +582,11 @@
       "date": "Sep 2026 - Mar 2027",
       "summary": "Neurophysiology, clinical neuroanatomy and the functional organization of the central nervous system. Covers neuronal excitability, synaptic transmission and plasticity; proprioception, sensory networks and motor control; neurogenesis and brain development across the lifespan; association cortices, homeostasis, memory, emotion and perception. Examines conceptual connections between human cognition, biological neural networks and intelligent software systems.",
       "logo": "cv-edu-logo-1.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "Vanderbilt University",
@@ -524,7 +596,9 @@
       "logo": "cv-edu-logo-16.png",
       "status": "In progress | 1 course completed",
       "credential_url": "https://www.coursera.org/account/accomplishments/verify/C6W16OECJBOB",
-      "credential_label": "View completed course certificate"
+      "credential_label": "Course certificate",
+      "credential_scope": "course",
+      "credential_note": "Completed course: AI Agents and Agentic AI with Python & Generative AI. The broader AI Agent Developer specialization remains in progress."
     },
     {
       "institution": "Harvard Business Review",
@@ -534,7 +608,9 @@
       "logo": "cv-logo-hbr.png",
       "status": "Completed | 4 of 4 courses",
       "credential_url": "https://www.coursera.org/account/accomplishments/specialization/GHESGWLN8AVG",
-      "credential_label": "View specialization certificate"
+      "credential_label": "Specialization certificate",
+      "credential_scope": "specialization",
+      "credential_note": "Completion certificate for Boost Your Leadership Impact, covering all four courses."
     },
     {
       "institution": "Universitat Politècnica de València (UPV)",
@@ -542,7 +618,11 @@
       "date": "Sep 2026 - Oct 2026",
       "summary": "Spanish study aligned with CEFR A1.1, covering vocabulary, grammar, pronunciation and everyday communication. Topics include greetings, introductions, personal information, descriptions, locations and directions, present-tense and reflexive verbs, routines, dates, time, family and social interaction. Introduces a Chilean cultural context.",
       "logo": "cv-edu-logo-18.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "Shanghai Jiao Tong University",
@@ -550,7 +630,11 @@
       "date": "Sep 2026 - Jun 2027",
       "summary": "Four-course program in Mandarin vocabulary, grammar, pronunciation, listening, practical communication and Chinese culture. Covers approximately 1,000 words, 75 language points and 30 everyday situations, with preparation strategies for HSK Levels 1-2. A capstone applies Mandarin in simulated real-world scenarios.",
       "logo": "cv-edu-logo-19.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "FAAP - Fundação Armando Alvares Penteado",
@@ -558,7 +642,11 @@
       "date": "Sep 2026 - Oct 2027",
       "summary": "Postgraduate studies in Neuroscience focused on the biological, cognitive, affective, and behavioral mechanisms underlying human brain function. The program covers functional neuroanatomy, including the prefrontal cortex, limbic system, hypothalamus, hippocampus, amygdala, and cerebellum, as well as cognition, emotion, memory, decision-making, stress regulation, and neuroplasticity. It also explores neuroimaging and brain-mapping techniques such as MRI, PET, EEG, and connectomics; neuropsychology; neuroendocrinology and the HPA axis; neurological and psychiatric disorders; attachment, childhood adversity, and human development; psychotherapy and behavioral modification; and neuromodulation techniques such as Transcranial Magnetic Stimulation (TMS).",
       "logo": "cv-edu-logo-20.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "FAAP - Fundação Armando Alvares Penteado",
@@ -566,7 +654,11 @@
       "date": "Sep 2026 - Oct 2027",
       "summary": "MBA studies in Leadership and People Management for technology-driven organizations. Covers people leadership, self-awareness and professional development, macro trends, emerging technologies, Agile methods, digital transformation, organizational design, entrepreneurship and Industry 4.0. Develops assertive and non-violent communication, conflict resolution, feedback, 1:1s, expectation alignment, inclusive leadership, diversity, employee well-being and sustainable high performance. Further topics include personal branding, employability, innovation, new ways of working, and the roles of Product Owners, Project Managers and technical leaders in cross-functional environments.",
       "logo": "cv-edu-logo-20.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "University of Toronto",
@@ -574,7 +666,11 @@
       "date": "Sep 2026 - Mar 2027",
       "summary": "This Specialization covers the iOS application development in the Swift programming language. It provides knowledge to use development tools such as XCode, design interfaces and interactions and evaluate their usability, and integrate camera, photo, and location information to enhance your app. In the final Capstone Project, the specialization will give the opportunity to apply your skills to create a fully-functioning photo editing app for iPhone, iPad, and Apple Watch. A Mac computer is required for success in this course.",
       "logo": "cv-edu-logo-21.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "Imperial College London",
@@ -582,7 +678,11 @@
       "date": "Oct 2026 - Dec 2026",
       "summary": "Mathematical foundations for machine learning, connecting linear algebra, multivariate calculus and principal component analysis with practical applications. Covers vectors and matrices, model fitting and optimization, and dimensionality reduction through PCA. Applied exercises use Python and NumPy to connect mathematical reasoning with implementation.",
       "logo": "brand_imperial.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     },
     {
       "institution": "Universidade São Judas Tadeu",
@@ -590,7 +690,11 @@
       "date": "Oct 2026 - Oct 2027",
       "summary": "Postgraduate studies in quantum computing, connecting quantum mechanics, information theory and mathematical foundations with practical quantum programming. Covers qubits, superposition, entanglement, interference, quantum gates and teleportation; Deutsch-Jozsa, Bernstein-Vazirani and Simon algorithms; the Quantum Fourier Transform; and Shor and Grover algorithms. Hands-on work uses Python and Qiskit, Q#, the Microsoft Quantum Development Kit, Azure Quantum, IBM Quantum, simulators and real quantum hardware. Explores quantum machine learning and AI, cryptography and the implications for RSA, NISQ systems, and applications in finance, optimization and materials science.",
       "logo": "brand_saojudas.png",
-      "status": "In progress"
+      "status": "In progress",
+      "credential_url": "",
+      "credential_label": "In progress",
+      "credential_scope": "in_progress",
+      "credential_note": "Program in progress. No completed-module certificate is linked in the available records."
     }
   ],
   "courses": [
