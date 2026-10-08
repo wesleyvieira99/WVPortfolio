@@ -1,0 +1,27 @@
+{
+  "date": "2026-10-08",
+  "change": "Education completion evidence and portfolio navigation",
+  "preserved_counts": {
+    "courses": 448,
+    "education": 27,
+    "articles": 13,
+    "roles": 8
+  },
+  "complete_pdf_pages": 83,
+  "executive_pdf_pages": 5,
+  "education_certificate_links": 10,
+  "missing_public_completion_link": [
+    "University of Michigan | Large Language Models - LLMs Specialization"
+  ],
+  "improvements": [
+    "Seven-chapter clickable contents with page ranges",
+    "Article directory with 13 direct destinations",
+    "Education directories and 27 exact program destinations",
+    "Consistent certificate areas with document scope",
+    "Each course category begins on a new page",
+    "Larger course typography; per-subject pagination and record ranges",
+    "Hierarchical PDF outline; active chapter, contents, previous and next navigation",
+    "Executive qualification entries link to available certificates"
+  ],
+  "provenance": "Education certificate URLs matched to current LinkedIn education media and course catalog; no certificate URL inferred."
+}
